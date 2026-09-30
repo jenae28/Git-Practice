@@ -4,3 +4,8 @@ git remote origin https://github.com/jenae28/Git-Practice.git
 git add . 
 git comit -m "this is first commit"
 git push -u origin master
+
+Updating commands
+git add .
+git commit -m "updating file" 
+Git push
