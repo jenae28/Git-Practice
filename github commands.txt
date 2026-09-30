@@ -1,2 +1,6 @@
 github commands 
-github commands
+git init
+git remote origin https://github.com/jenae28/Git-Practice.git
+git add . 
+git comit -m "this is first commit"
+git push -u origin master
